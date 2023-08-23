@@ -59,9 +59,9 @@
 
 Checkout my Expo Snack Projects
 -
+- --
 <img alig="center" src="https://1.bp.blogspot.com/7l-bQADRV4PzxAz_9GH2aozV3jkHqdlUJbOsIf4Eu_bazCi6UH_UyiAeKer2-s9GafI=w640-h312"
 alt="Expo snack logo" height="30" width="70"/>
-- --
 - [Fingerprint-Authentication-Expo](https://snack.expo.dev/@sagarbhusal01/fingerprint-authentication)
 - [Animated bottom alert message box](https://snack.expo.dev/@sagarbhusal01/animated-bottom-alert-message-box-)
 - [Bottom-Alert-Box-Design](https://snack.expo.dev/@sagarbhusal01/bottom-alert-box-design)
