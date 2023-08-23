@@ -66,9 +66,11 @@
   </a>
   
   <a href="https://www.instagram.com/sagar__bhusal_/" target="blank">
-  <img  src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg"                        alt="sagar bhusal" height="30" width="40" />             
+  <img  src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="sagar bhusal" height="30" width="40" />             
   </a>
 </p>
+
+
 
 Checkout my Expo Snacks Projects
 -
