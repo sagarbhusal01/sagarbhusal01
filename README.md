@@ -70,7 +70,7 @@
   </a>
 </p>
 
-Checkout my Expo Snack Projects
+Checkout my Expo Snacks Projects
 -
 - --
 <img alig="center" src="https://1.bp.blogspot.com/7l-bQADRV4PzxAz_9GH2aozV3jkHqdlUJbOsIf4Eu_bazCi6UH_UyiAeKer2-s9GafI=w640-h312"
