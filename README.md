@@ -59,22 +59,20 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-
+<p  align="left">
   
 <a href="https://www.facebook.com/people/sagar-bhusal/100035824364984/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"                        
-    alt="https://www.facebook.com/people/sagar-bhusal/100035824364984/" height="30" width="40" />             
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"                        alt="https://www.facebook.com/people/sagar-bhusal/100035824364984/" height="30" width="40" />             
   </a>
+  
   <a href="https://www.instagram.com/sagar__bhusal_/" target="blank">
-  <img  src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="sagar bhusal" height="30" width="40" />             
+  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg"                        alt="sagar bhusal" height="30" width="40" />             
   </a>
+</p>
 
-
-
-
+--
 Checkout my Expo Snacks Projects
 -
-- --
 <img alig="center" src="https://1.bp.blogspot.com/7l-bQADRV4PzxAz_9GH2aozV3jkHqdlUJbOsIf4Eu_bazCi6UH_UyiAeKer2-s9GafI=w640-h312"
 alt="Expo snack logo" height="30" width="70"/>
 - [Fingerprint-Authentication-Expo](https://snack.expo.dev/@sagarbhusal01/fingerprint-authentication)
