@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sagar Bhusal</h1>
-<h3 align="center">A passionate learner</h3>
+<h3 align="center">A keen learner</h3>
 
-- 🌱 I’m currently learning **React and React native**
-- 👯 I'm good at **frontend and UI designing**
+- 🌱 I’m currently learning **Java's SpringBoot and Vaadin framework**
+- 👯 I'm good at **Full stack and UI/UX**
 - 📷 I'm a decent photographer
-- and a bad student 😉😉
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -61,8 +60,8 @@
 <h3 align="left">Connect with me:</h3>
 <p  align="left">
   
-<a href="https://www.facebook.com/people/sagar-bhusal/100035824364984/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"                        alt="https://www.facebook.com/people/sagar-bhusal/100035824364984/" height="30" width="40" />             
+<a href="https://www.facebook.com/sagarbhusal01/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/sagar-bhusal/100035824364984/" height="30" width="40" />
   </a>
   
   <a href="https://www.instagram.com/sagar__bhusal_/" target="blank">
