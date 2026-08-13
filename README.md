@@ -55,7 +55,7 @@
   </a>
   
   <a href="https://www.instagram.com/sagar__bhusal_/" target="blank">
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="sagar bhusal" height="30" width="40" />             
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar bhusal" height="30" width="40" />             
   </a>
 </p>
 
